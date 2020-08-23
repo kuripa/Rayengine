@@ -1,0 +1,6 @@
+[submodule "rayengine/vendor/raylib"]
+	path = rayengine/vendor/raylib
+	url = https://github.com/raysan5/raylib
+[submodule "rayengine/vendor/spdlog"]
+	path = rayengine/vendor/spdlog
+	url = https://github.com/gabime/spdlog
